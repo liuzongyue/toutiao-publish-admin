@@ -32,7 +32,7 @@
     "lint-staged": "^9.5.0"
   },
   "gitHooks": {
-    "pre-commit": "lint-staged"
+    "pre-commit": ""
   },
   "lint-staged": {
     "*.{js,jsx,vue}": [
